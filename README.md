@@ -1,16 +1,17 @@
-## Hi there 👋
+## Marta Bolognini
 
-<!--
-**martabolognini/martabolognini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MD candidate at Vita-Salute San Raffaele University (Milan, Italy).
 
-Here are some ideas to get you started:
+Research focus: longitudinal EHR modelling, temporal representation of clinical trajectories, and outcome prediction using real-world hospital data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current work:
+MD thesis — “From Static Assessment to Patient Trajectories” — evaluating whether trajectory-based laboratory representations improve prediction of adverse in-hospital outcomes and 90-day post-discharge mortality over static clinical baselines in internal medicine patients (MED-Cli study, IRCCS San Raffaele Hospital).
+
+Methods and interests:
+- temporal feature engineering
+- survival analysis
+- informative missingness
+- longitudinal clinical trajectories
+- exploratory HMM collaboration
+- multimodal patient representations
+- clinically grounded ML systems
